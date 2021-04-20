@@ -1,0 +1,8 @@
+we choose a symbol at the same time ... pick a winner
+
+choose q winner
+- rock beats scissors
+- paper beats rock
+- scissors beats paper
+
+if you win or loose you can play best of 3 or 5 or whatever
